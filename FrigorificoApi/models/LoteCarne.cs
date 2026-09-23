@@ -2,10 +2,10 @@ namespace FrigorificoApi.Models
 {
     public class LoteCarne
     {
-        public int Id { get; set; }
-        public string codigoRastreio { get; set; } = string.Empty;
-        public string tipoCorte { get; set; } = string.Empty;
-        public decimal pesoKgg { get; set; }
-        public DateTime dataEntrada { get; set; }
+        public int Id { get; set; } // O Entity Framework entende 'Id' como Chave Primária automaticamente
+        public string CodigoRastreio { get; set; } = string.Empty;
+        public string TipoCorte { get; set; } = string.Empty;
+        public decimal PesoKg { get; set; }
+        public DateTime DataEntrada { get; set; }
     }
 }

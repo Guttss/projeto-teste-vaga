@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rW1YxV8JhZY=",
+  "dgSpecHash": "4sD0EQNAdz0=",
   "success": true,
   "projectFilePath": "C:\\Users\\gusta\\OneDrive\\Desktop\\Codigos\\Codigos\\projeto-test-vaga\\FrigorificoApi\\FrigorificoApi.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,12 @@
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.12\\microsoft.entityframeworkcore.abstractions.10.0.12.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.12\\microsoft.entityframeworkcore.analyzers.10.0.12.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.12\\microsoft.entityframeworkcore.inmemory.10.0.12.nupkg.sha512",
-    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.3\\swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.3\\swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.3\\swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.3\\swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
   ],
   "logs": []
 }
