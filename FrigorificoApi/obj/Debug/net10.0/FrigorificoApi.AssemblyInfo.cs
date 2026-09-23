@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrigorificoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d06cc40a09c2eb1a571980b1e64042c0db99f17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e0dcb6f1f5e0796fcf376b8185bf1b196e5972a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrigorificoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrigorificoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
